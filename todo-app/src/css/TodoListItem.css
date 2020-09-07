@@ -8,6 +8,14 @@
     background: #f8f9fa;
 }
 
+.TodoListItem-virtualized{
+    border-top: 1px solid #dee2e6;
+}
+
+.TodoListItem-virtualized:nth-child(even){
+    background: #f8f9fa;
+}
+
 .checkbox{
     cursor: pointer;
     flex: 1;
