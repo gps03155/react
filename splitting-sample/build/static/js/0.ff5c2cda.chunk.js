@@ -1,0 +1,2 @@
+(this["webpackJsonpsplitting-sample"]=this["webpackJsonpsplitting-sample"]||[]).push([[0],{12:function(t,n,i){"use strict";function s(){alert("\uc548\ub155\ud558\uc138\uc694")}function e(){alert("\ud14c\uc2a4\ud2b8")}i.r(n),i.d(n,"default",(function(){return s})),i.d(n,"test",(function(){return e}))}}]);
+//# sourceMappingURL=0.ff5c2cda.chunk.js.map

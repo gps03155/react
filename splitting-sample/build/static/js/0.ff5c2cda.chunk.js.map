@@ -1,0 +1,1 @@
+{"version":3,"sources":["notify.js"],"names":["notify","alert","test"],"mappings":"2HAAe,SAASA,IACpBC,MAAM,kCAGH,SAASC,IACZD,MAAM,sBALV","file":"static/js/0.ff5c2cda.chunk.js","sourcesContent":["export default function notify(){\n    alert('안녕하세요');\n}\n\nexport function test(){\n    alert('테스트');\n}"],"sourceRoot":""}
